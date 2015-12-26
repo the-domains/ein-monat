@@ -1,7 +1,7 @@
 name: Ein Monat
 favicon: null
-layout_spectrum: 0.5427633468061686
-typography_spectrum: 0.899386879755184
+layout_spectrum: 0.59335
+typography_spectrum: 0.68522
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5868521011434495
-  lightness: 0.5373096440453082
-  saturation: 0.38794631557539105
-  rhythmicContrast: 0.9674441202078015
+    - '#ffed00'
+    - '#1a171b'
+    - '#817e60'
+    - '#cfc324'
+    - '#a8a042'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
